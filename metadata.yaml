@@ -1,4 +1,8 @@
 _repo: Indian-Creek-Massacre-and-Captivity-of-Hall-Girls_50294
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50294-h/images/cover.jpg
 creator:
   author:
     agent_name: Scanlan, Charles Martin
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '37751'
     url: http://www.gutenberg.org/2009/agents/37751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50294#Indian-Creek-Massacre-and-Captivity-of-Hall-Girls
 gutenberg_issued: '2015-10-23'
 gutenberg_type: Text
 identifiers:
